@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://kientux.github.io</string>
+					<string>https://github.com/kientux/kientux.github.io/blob/master/ipa-ota/sapo/Apps/Sapo%20Testing.ipa?raw=true</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -43,7 +43,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://kientux.github.io../-iPad%20(4th%20generation)-etc</string>
+					<string>https://github.com/kientux/kientux.github.io/blob/master/ipa-ota/sapo/Apps/Sapo%20Testing-iPad%20(4th%20generation)-etc.ipa?raw=true</string>
 					<key>variantIds</key>
 					<array>
 						<string>iPad3,6</string>
@@ -58,7 +58,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://kientux.github.io../-iPad%202-etc</string>
+					<string>https://github.com/kientux/kientux.github.io/blob/master/ipa-ota/sapo/Apps/Sapo%20Testing-iPad%202-etc.ipa?raw=true</string>
 					<key>variantIds</key>
 					<array>
 						<string>iPad2,3</string>
@@ -74,7 +74,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://kientux.github.io../-iPad%20Pro%20(12.9-inch)-etc</string>
+					<string>https://github.com/kientux/kientux.github.io/blob/master/ipa-ota/sapo/Apps/Sapo%20Testing-iPad%20Pro%20(12.9-inch)-etc.ipa?raw=true</string>
 					<key>variantIds</key>
 					<array>
 						<string>iPad7,4</string>
@@ -106,7 +106,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://kientux.github.io../-iPhone%206%20Plus-etc</string>
+					<string>https://github.com/kientux/kientux.github.io/blob/master/ipa-ota/sapo/Apps/Sapo%20Testing-iPhone%206%20Plus-etc.ipa?raw=true</string>
 					<key>variantIds</key>
 					<array>
 						<string>iPhone10,2</string>
@@ -123,7 +123,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://kientux.github.io../-iPhone%20SE-etc</string>
+					<string>https://github.com/kientux/kientux.github.io/blob/master/ipa-ota/sapo/Apps/Sapo%20Testing-iPhone%20SE-etc.ipa?raw=true</string>
 					<key>variantIds</key>
 					<array>
 						<string>iPhone10,1</string>
@@ -142,7 +142,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://kientux.github.io../-iPod%20touch-etc</string>
+					<string>https://github.com/kientux/kientux.github.io/blob/master/ipa-ota/sapo/Apps/Sapo%20Testing-iPod%20touch-etc.ipa?raw=true</string>
 					<key>variantIds</key>
 					<array>
 						<string>iPhone5,2</string>
